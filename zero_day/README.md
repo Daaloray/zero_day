@@ -1,1 +1,1 @@
-This is day-0, welcome to ALX!
+This is day-0, welcome to ALX.
